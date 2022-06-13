@@ -1,0 +1,15 @@
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\bin\Debug\net6.0\AcademiaNovit_Fundamentals.exe
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\bin\Debug\net6.0\AcademiaNovit_Fundamentals.deps.json
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\bin\Debug\net6.0\AcademiaNovit_Fundamentals.runtimeconfig.json
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\bin\Debug\net6.0\AcademiaNovit_Fundamentals.dll
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\bin\Debug\net6.0\ref\AcademiaNovit_Fundamentals.dll
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\bin\Debug\net6.0\AcademiaNovit_Fundamentals.pdb
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\obj\Debug\net6.0\AcademiaNovit_Fundamentals.csproj.AssemblyReference.cache
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\obj\Debug\net6.0\AcademiaNovit_Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\obj\Debug\net6.0\AcademiaNovit_Fundamentals.AssemblyInfoInputs.cache
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\obj\Debug\net6.0\AcademiaNovit_Fundamentals.AssemblyInfo.cs
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\obj\Debug\net6.0\AcademiaNovit_Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\obj\Debug\net6.0\AcademiaNovit_Fundamentals.dll
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\obj\Debug\net6.0\ref\AcademiaNovit_Fundamentals.dll
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\obj\Debug\net6.0\AcademiaNovit_Fundamentals.pdb
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\AcademiaNovit_Fundamentals\obj\Debug\net6.0\AcademiaNovit_Fundamentals.genruntimeconfig.cache

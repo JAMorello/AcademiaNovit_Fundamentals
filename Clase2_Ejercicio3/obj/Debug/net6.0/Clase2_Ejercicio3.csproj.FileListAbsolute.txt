@@ -1,0 +1,15 @@
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\obj\Debug\net6.0\Clase2_Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\obj\Debug\net6.0\Clase2_Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\obj\Debug\net6.0\Clase2_Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\obj\Debug\net6.0\Clase2_Ejercicio3.AssemblyInfo.cs
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\obj\Debug\net6.0\Clase2_Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\bin\Debug\net6.0\Clase2_Ejercicio3.exe
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\bin\Debug\net6.0\Clase2_Ejercicio3.deps.json
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\bin\Debug\net6.0\Clase2_Ejercicio3.runtimeconfig.json
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\bin\Debug\net6.0\Clase2_Ejercicio3.dll
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\bin\Debug\net6.0\ref\Clase2_Ejercicio3.dll
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\bin\Debug\net6.0\Clase2_Ejercicio3.pdb
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\obj\Debug\net6.0\Clase2_Ejercicio3.dll
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\obj\Debug\net6.0\ref\Clase2_Ejercicio3.dll
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\obj\Debug\net6.0\Clase2_Ejercicio3.pdb
+C:\Users\Novit\source\repos\AcademiaNovit_Fundamentals\Clase2_Ejercicio3\obj\Debug\net6.0\Clase2_Ejercicio3.genruntimeconfig.cache
